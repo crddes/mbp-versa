@@ -20,7 +20,7 @@ const IndexPage = () => (
   <Layout>
     <Seo title="Minimalist designer &amp; problem solver" />
 
-    <Hero heroText="Helping people design systems with minimalism &amp; data." heroDesc="I am Chris Porter, a seasoned designer, developer &amp; audio producer for entrepreneurs. I enjoy building systems for small businesses &amp; early stage startups."  />
+    <Hero heroText="eCommerce Specialist &amp; growing companies." heroDesc="I am Chris Porter, a seasoned designer, developer &amp; audio producer for entrepreneurs. I enjoy building systems for small businesses &amp; early stage startups."  />
 
     <section className="block block-section">
       <header className="block-header g-m-1-13 g-1-13">
